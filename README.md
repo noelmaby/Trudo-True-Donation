@@ -29,3 +29,14 @@ react-router-dom                          : 6.26.2 <br>
 ## Tools used
 <a href="https://remix.ethereum.org/">Remix IDE <br>
 <a href="https://www.buildbear.io/">Build Bear <br>
+
+# UI Images
+<img width="1897" height="871" alt="trudo1" src="https://github.com/user-attachments/assets/2442ffc2-2948-4218-afe9-abcf97ea3b3c" />
+<img width="1869" height="856" alt="trudo2" src="https://github
+ <img width="1897" height="863" alt="trudo3" src="https://github.com/user-attachments/assets/cba1013d-6710-495f-8ab1-83409041a7e7" />
+.com/user-attachments/assets/2b48a2fc-7093-4a0a-ab9c-91226587a441" />
+
+
+
+
+
