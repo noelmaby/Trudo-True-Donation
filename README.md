@@ -1,4 +1,4 @@
-#TRUDO - True Donation
+# TRUDO - True Donation
 
 # Blockchain-Powered Donation Platform
  This project was developed as part of our final year Computer Science and Engineering degree.
